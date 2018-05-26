@@ -1,0 +1,6 @@
+var num = 1;
+
+function register(name) {
+    console.log(`${num}. ${name}`);
+    num++;
+}
